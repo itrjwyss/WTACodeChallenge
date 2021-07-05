@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WTACodeCallenge</string>
+    <string name="room_database_name">character_database</string>
+
+    <string name="list_msj_fail">An error has occurred trying to load new information.</string>
+
+    <string name="detail_lbl_nick">Nickname</string>
+    <string name="detail_lbl_occupation">Occupation</string>
+    <string name="detail_lbl_birth">Birthday</string>
+    <string name="detail_lbl_status">Status</string>
+    <string name="detail_lbl_portrayed">Portrayed</string>
+    <string name="detail_lbl_category">Category</string>
+    <string name="detail_lbl_appearance">Appearance</string>
+    <string name="detail_lbl_call_appearance">Better Call Saul Appearance</string>
+</resources>
